@@ -5,7 +5,7 @@ os.system('figlet DestaX')
 author = "Desta Arya Nugraha"
 youtube = "Desta Tech"
 Instagram = "@desta.an"
-Team = "Security Coded Team"
+Team = "Ganest Seven"
 print("-----------------------------------------")
 print("Author " + ": " + author)
 print("YouTube " + ": " + youtube)
